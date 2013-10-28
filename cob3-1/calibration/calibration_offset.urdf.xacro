@@ -115,7 +115,7 @@
 	<property name="offset_cam3d_x" value="0.0"/>
 	<property name="offset_cam3d_y" value="0.0"/>
 	<property name="offset_cam3d_z" value="0.0"/>
-	<property name="offset_cam3d_roll" value="0.0"/>
+	<property name="offset_cam3d_roll" value="-0.05"/>
 	<property name="offset_cam3d_pitch" value="0.0"/>
 	<property name="offset_cam3d_yaw" value="0.0"/>
 </robot>
